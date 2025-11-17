@@ -1,28 +1,64 @@
-<h1 align="center">Hi 👋, I'm Mayank Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Mayank Raj
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=may-nk&label=Profile%20views&color=0e75b6&style=flat" alt="may-nk" /> </p>
+React Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=may-nk" alt="may-nk" /></a> </p>
+I focus on building clean, structured, and user-centered web interfaces. I enjoy redesigning websites, improving user experience, and exploring modern, animation-driven storytelling web designs.
 
-<p align="left"> <a href="https://twitter.com/mayankra4" target="blank"><img src="https://img.shields.io/twitter/follow/mayankra4?logo=twitter&style=for-the-badge" alt="mayankra4" /></a> </p>
+<!-- Visitor Counter -->
+![Profile Visitors](https://komarev.com/ghpvc/?username=May-nk&style=flat-square&color=000000&label=Profile+Views)
 
-- 🔭 I’m currently working on **My Skills**
+## Tech Stack
 
-- 🌱 I’m currently learning **Web development**
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
 
-- 📫 How to reach me **raj.work006@gmail.com**
+### Animation / UI Tools
+![GSAP](https://img.shields.io/badge/GSAP-000000?style=flat&logo=greensock)
+![Locomotive.js](https://img.shields.io/badge/Locomotive.js-000000?style=flat)
+![Framer](https://img.shields.io/badge/Framer-000000?style=flat&logo=framer)
+![Lines.js](https://img.shields.io/badge/Lines.js-000000?style=flat)
+![Skiper UI](https://img.shields.io/badge/Skiper%20UI-000000?style=flat)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mayankra4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayankra4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayank-raj004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-raj004/" height="30" width="40" /></a>
-<a href="https://instagram.com/mayannkk_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayannkk_raj" height="30" width="40" /></a>
-</p>
+### Programming
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Python Libraries
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=may-nk&show_icons=true&locale=en&layout=compact" alt="may-nk" /></p>
+### Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visualstudiocode)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=may-nk&show_icons=true&locale=en" alt="may-nk" /></p>
+## Current Focus
+Strengthening core frontend development skills and improving React-based workflows.
+
+## Featured Project
+
+### Online Exam Proctoring & Cheat Detection System  
+A scalable exam-monitoring system built with Python (OpenCV) and a basic frontend using HTML, CSS, and JavaScript. Designed for school and college-level deployments.  
+Repository: https://github.com/May-nk/-ONLINE-EXAM-PROCTORING-CHEAT-DETECTION-SYSTEM
+
+## Goals
+Preparing to start freelancing and work on real-world client projects.
+
+## Education
+B.Tech in Computer Science Engineering  
+Bengaluru
+
+## Contact
+Email: **raj.work006@gmail.com**
+
+## GitHub Stats
+
+![Mayank's GitHub Stats](https://github-readme-stats-mu-tawny.vercel.app/api?username=May-nk&show_icons=false&hide_title=true&hide=issues,contribs&include_all_commits=true&count_private=true&theme=graywhite)
+
+![Top Languages](https://github-readme-stats-mu-tawny.vercel.app/api/top-langs/?username=May-nk&layout=compact&theme=graywhite&hide_title=true)
