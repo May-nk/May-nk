@@ -14,6 +14,8 @@ I focus on building clean, structured, and user-centered web interfaces. I enjoy
 ![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000000?style=flat&logo=tailwindcss)
+
 
 ### Animation / UI Tools
 ![GSAP](https://img.shields.io/badge/GSAP-000000?style=flat&logo=greensock)
