@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td align="center" width="220"><b>30+</b><br><sub>DSA problems solved<br>on LeetCode</sub></td>
+    <td align="center" width="220"><b>40+</b><br><sub>DSA problems solved<br>on LeetCode</sub></td>
     <td align="center" width="220"><b>4</b><br><sub>featured projects<br>built & shipped</sub></td>
     <td align="center" width="220"><b>3+</b><br><sub>core web stacks<br>used in projects</sub></td>
     <td align="center" width="220"><b>Multiple</b><br><sub>college project expo<br>wins</sub></td>
